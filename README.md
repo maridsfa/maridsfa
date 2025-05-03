@@ -1,8 +1,12 @@
-## Olá! Sou a Mariana 😊
+## 👩‍💻 Mariana dos Santos
 
-- 💻 Hoje estou trabalhando com desenvolvimento de API's 
-- 🚀 Estudando IA Generativa e Machine Learning
+##
 
+Me chamo Mariana Farias, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente sou Técnica em Eletrônica pelo Instituto Federal Sul-rio-grandense e estudante de Ciência da computação pela Universidade Federal de Pelotas. Sou apaixonada por tecnologia e inovação com IA Generativa.
+
+##
+
+## 🤖 Linguagems e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mari-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
