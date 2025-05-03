@@ -5,7 +5,6 @@ Me chamo Mariana Farias, tenho 21 anos e sou natural do Rio Grande do Sul. Atual
 ##
 
 ## 🤖 Linguagems e Tecnologias
-
 <div style="display: inline_block"><br>
   <img align="center" alt="mari-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="mari-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
