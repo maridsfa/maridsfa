@@ -1,7 +1,5 @@
 ## 👩‍💻 Mariana dos Santos
 
-##
-
 Me chamo Mariana Farias, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente sou Técnica em Eletrônica pelo Instituto Federal Sul-rio-grandense e estudante de Ciência da computação pela Universidade Federal de Pelotas. Sou apaixonada por tecnologia e inovação com IA Generativa.
 
 ##
