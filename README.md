@@ -1,4 +1,4 @@
-## 👩‍💻 Mariana dos Santos
+## Hey 🤗
 
 My name is Mariana dos Santos, I am 21 years old and I’m from Rio Grande do Sul, Brazil. I am currently an Electronics Technician graduated from the Federal Institute of Southern Rio Grande (IFSul) and a Computer Science student at the Federal University of Pelotas (UFPel). I’m passionate about technology and innovation with Generative AI. 👽
 
